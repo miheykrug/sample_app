@@ -17,6 +17,7 @@
 
 # Игнорирование прочих ненужных файлов
  database.yml
+ workspace.xml
  doc/
  *.swp
  *~
